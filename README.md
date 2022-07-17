@@ -1,3 +1,9 @@
+
+在原基础上添加以下功能
+1. 添加按下效果渐变图层
+2. 添加底线相关优化
+
+转自 以下
 # Shape 框架
 
 * 项目地址：[Github](https://github.com/getActivity/ShapeView)、[码云](https://gitee.com/getActivity/ShapeView)
